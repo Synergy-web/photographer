@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-25 08:21-0600\n"
+"PO-Revision-Date: 2012-06-25 08:21-0600\n"
+"Last-Translator: \n"
+"Language-Team: Cebo <cebo@cebocampbell.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:25
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:68
+#: ../category.php:71
+#: ../index.php:132
+msgid " Older Entries"
+msgstr ""
+
+#: ../archive.php:69
+#: ../category.php:72
+#: ../index.php:133
+msgid "Newer Entries "
+msgstr ""
+
+#: ../attachment.php:24
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: ../attachment.php:25
+msgid "Pages:"
+msgstr ""
+
+#: ../author.php:25
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:32
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../comments.php:33
+#: ../comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34
+#: ../comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../header.php:28
+#: ../page-mailchimp.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../single.php:62
+msgid "Edit"
+msgstr ""
+
+#: ../tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../library/contact_form.php:12
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: ../library/contact_form.php:20
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: ../library/contact_form.php:23
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../library/contact_form.php:31
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: ../library/contact_form.php:45
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: ../library/contact_form.php:48
+#: ../library/contact_form.php:55
+msgid "From: "
+msgstr ""
+
+#: ../library/contact_form.php:48
+msgid "Reply-To: "
+msgstr ""
+
+#: ../library/contact_form.php:54
+msgid "You emailed "
+msgstr ""
+
+#: ../library/post_types.php:20
+msgid "Add New Project"
+msgstr ""
+
+#: ../library/post_types.php:21
+msgid "Edit Project"
+msgstr ""
+
+#: ../library/post_types.php:22
+msgid "New Project"
+msgstr ""
+
+#: ../library/post_types.php:23
+msgid "View Project"
+msgstr ""
+
+#: ../library/post_types.php:24
+msgid "Search Projects"
+msgstr ""
+
+#: ../library/post_types.php:25
+msgid "No Project found"
+msgstr ""
+
+#: ../library/post_types.php:26
+msgid "No Project found in Trash"
+msgstr ""
+
+#: ../library/post_types.php:83
+msgid "Search Project Types"
+msgstr ""
+
+#: ../library/post_types.php:84
+msgid "All Project Types"
+msgstr ""
+
+#: ../library/post_types.php:85
+msgid "Parent Project Type"
+msgstr ""
+
+#: ../library/post_types.php:86
+msgid "Parent Project Type:"
+msgstr ""
+
+#: ../library/post_types.php:87
+msgid "Edit Project Type"
+msgstr ""
+
+#: ../library/post_types.php:88
+msgid "Update Project Type"
+msgstr ""
+
+#: ../library/post_types.php:89
+msgid "Add New Project Type"
+msgstr ""
+
+#: ../library/post_types.php:90
+msgid "New Project Type Name"
+msgstr ""
+
+#: ../library/post_types.php:108
+#: ../library/post_types.php:109
+msgid "Team"
+msgstr ""
+
+#: ../library/post_types.php:154
+msgid "Add New Slide"
+msgstr ""
+
+#: ../library/post_types.php:155
+msgid "Edit Slide"
+msgstr ""
+
+#: ../library/post_types.php:156
+msgid "New Slide"
+msgstr ""
+
+#: ../library/post_types.php:157
+msgid "View Slide"
+msgstr ""
+
+#: ../library/post_types.php:158
+msgid "Search Slides"
+msgstr ""
+
+#: ../library/post_types.php:159
+msgid "No Slide found"
+msgstr ""
+
+#: ../library/post_types.php:160
+msgid "No Slide found in Trash"
+msgstr ""
+
+#: ../library/simple_functions.php:4
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../library/simple_functions.php:45
+msgid "Your name (required)"
+msgstr ""
+
+#: ../library/simple_functions.php:47
+msgid "Your Email (required)"
+msgstr ""
+
+#: ../library/simple_functions.php:50
+msgid "Your Website, please"
+msgstr ""
+
+#: ../library/simple_functions.php:278
+msgid "Page"
+msgstr ""
+
